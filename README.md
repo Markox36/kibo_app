@@ -6,6 +6,12 @@
 
 > Tu día, tu semana y tu foco — en una sola app.
 
+<p align="center">
+  <a href="https://kibo.markox.dev">🌐 Probar en la web</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Markox36/kibo_app/releases">⬇️ Descargar última versión</a>
+</p>
+
 Kibo es una app de productividad personal que combina **calendario**, **tareas**, **notas rápidas** y **modo concentración** en un flujo único. Pensada para quienes viven pegados al calendario pero no quieren doce herramientas distintas para organizarse.
 
 ---
@@ -96,8 +102,8 @@ Kibo es una app de productividad personal que combina **calendario**, **tareas**
 
 ## Plataformas
 
-- 🖥️ **Escritorio**: Linux (.deb / .AppImage / .rpm), macOS y Windows.
-- 🌐 **Web**: cualquier navegador moderno.
+- 🖥️ **Escritorio**: Linux (.deb / .AppImage / .rpm), macOS y Windows. Descargas en [Releases](https://github.com/Markox36/kibo_app/releases).
+- 🌐 **Web**: [kibo.markox.dev](https://kibo.markox.dev) — cualquier navegador moderno.
 - Interfaz responsive de móvil a monitor 4K.
 - Modo oscuro por defecto (claro llega en próxima versión).
 
