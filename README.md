@@ -150,6 +150,6 @@ Próximo en el horizonte:
 
 ## Contacto
 
-Kibo · desarrollado por **Markox** · [devmarkox36@gmail.com](mailto:devmarkox36@gmail.com)
+Kibo · desarrollado por **Markox** · [hello@markox.dev](mailto:hello@markox.dev)
 
 Código cerrado. Todos los derechos reservados © 2026.
